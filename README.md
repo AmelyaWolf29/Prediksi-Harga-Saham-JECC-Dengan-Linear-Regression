@@ -32,13 +32,11 @@ Prediksi vs Aktual:
 ![Prediksi vs Aktual](<Prediksi_vs_Aktual.png>)
 
 ## Cara Menjalankan (Jupyter Notebook)
-Letakkan dataset JECC.csv (dari dosen) di folder yang sama dengan notebook.
 ```bash 
 conda install pandas numpy seaborn matplotlib scikit-learn
-cd "Prediksi Harga Saham"
 jupyter notebook
 ```
-Buka file Prediksi Harga Saham Biasa (JECC).ipynb
+Buka file Prediksi_Harga_Saham.ipynb
 
 ## Catatan
 - Koefisien terbesar pada harga close (0,87), artinya harga berikutnya sangat dipengaruhi harga terakhir.
