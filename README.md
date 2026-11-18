@@ -34,6 +34,7 @@ Prediksi vs Aktual:
 ## Cara Menjalankan (Jupyter Notebook)
 ```bash 
 conda install pandas numpy seaborn matplotlib scikit-learn
+cd Prediksi-Harga-Saham-JECC-Dengan-Linear-Regression-main
 jupyter notebook
 ```
 Buka file Prediksi_Harga_Saham.ipynb
